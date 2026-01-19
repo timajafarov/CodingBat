@@ -1,4 +1,4 @@
-package revertDemo;
+package revertAndResetDemo;
 
 public class RevertDemo1 {
     public static void main(String[] args) {
